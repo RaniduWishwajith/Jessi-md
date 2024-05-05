@@ -1,7 +1,7 @@
 {
-    "name": "Jessi-md",
+    "name": "RV-md",
     "version": "5.0.0",
-    "description": "Simple WhatsApp Bot MD With ESM Module",
+    "description": "𝚜𝚒𝚖𝚙𝚕𝚎 𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝚛𝚊𝚗𝚒𝚍𝚞 𝚠𝚒𝚜𝚑𝚠𝚊𝚓𝚒𝚝𝚑",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -16,12 +16,12 @@
     },
     "keywords": [
         "termux-whatsapp-bot",
-        "jessimd",
-        "jessi-md",
+        "𝚛𝚟-𝚖𝚍",
+        "𝚛𝚟-md",
         "whatsapp-bot",
         "whatsapp",
         "wa-md",
-        "js-whatsapp",
+        "𝚛𝚟-whatsapp",
         "whatsapp-js",
         "lua-Bot",
         "whatsapp",
@@ -33,7 +33,7 @@
     ],
     "homepage": "https://github.com/whiteshadowofficial/Jessi-md",
     "author": {
-        "name": "Mr.White Shadow Ofc"
+        "name": "Ranidu Wishwajith"
     },
     "repository": {
         "type": "git",
