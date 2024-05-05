@@ -415,10 +415,10 @@ text: text,
 contextInfo: {
 mentionedJid: [user],
 externalAdReply: {
-title: "© Jessi MD",
+title: "© RV MD",
 body: "Group Notifications",
 thumbnailUrl: pp,
-sourceUrl: 'https://whatsapp.com/channel/0029Va6BcbxFCCoNNv1U3p02',
+sourceUrl: 'https://chat.whatsapp.com/LjVwlzyTaUCHVqismf8L2R',
 mediaType: 1,
 renderLargerThumbnail: true
 }}})
