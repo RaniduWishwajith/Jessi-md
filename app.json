@@ -1,12 +1,9 @@
 {
-  "name": "Jessi-md",
-  "description": "Whatsapp bot. recode by White Shadow Ofc",
+  "name": "𝚁𝚅-md",
+  "description": "Whatsapp bot. recode by 𝚁𝚊𝚗𝚒𝚍𝚞 𝚆𝚒𝚜𝚑𝚠𝚊𝚓𝚒𝚝𝚑",
   "keywords": [
     "whatsapp bot",
     "nodejs"
-  ],
-  "repository": "https://github.com/whiteshadowofficial/Jessi-md",
-    "buildpacks": [
     {
       "url": "heroku/nodejs"
     },
